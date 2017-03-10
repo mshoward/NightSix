@@ -1,0 +1,3 @@
+[submodule "NightFive"]
+	path = NightFive
+	url = https://github.com/mshoward/NightFive.git
